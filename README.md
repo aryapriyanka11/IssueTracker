@@ -40,3 +40,15 @@ Folder Structure
 - app.js
 - package.json
 - README.md
+
+  DATABASE_URL=your-database-url
+PORT=3000
+
+# Running the Application
+1. Run node app.js to start the server.
+2. Open a web browser and navigate to http://localhost:3000 to access the application.
+
+# Usage
+* Visit the homepage to see a list of issues.
+* Click on an issue to view its details.
+* Create, update, and delete issues using the provided forms and buttons.
